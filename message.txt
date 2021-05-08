@@ -1,0 +1,4 @@
+Automatic result milega aabse
+${PERSON_NAME}
+EM4=${math}
+signal and system=${ss}
